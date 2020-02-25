@@ -1,3 +1,3 @@
 # scaling-giggle
 
-I love :dog:s
+I love :cat:s
